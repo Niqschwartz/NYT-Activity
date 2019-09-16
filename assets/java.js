@@ -23,7 +23,7 @@ function doSearch () {
 
             div.append(articleLink)
         
-            $('#topArticlessDisplay').append(div)
+            $('#topArticlesDisplay').append(div)
         }
     })
 }
